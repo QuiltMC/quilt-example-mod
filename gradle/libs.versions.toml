@@ -1,5 +1,5 @@
+# The latest versions are available at https://quiltmc.org/en/usage/latest-versions/
 [versions]
-# The latest versions are available at https://lambdaurora.dev/tools/import_quilt.html
 minecraft = "1.19.2"
 quilt_mappings = "1.19.2+build.21"
 quilt_loader = "0.17.8"
